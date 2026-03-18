@@ -1,4 +1,4 @@
-//InvertedHalfPyramid.java
+//Inverted Right Half Pyramid
 
 import java.util.*;
 
